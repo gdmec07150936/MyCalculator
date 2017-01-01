@@ -1,4 +1,4 @@
-package com.example.administrator.mycalculator;
+package com.example.tanjinhui.mycalculator;
 
 import android.content.DialogInterface;
 import android.support.v7.app.AlertDialog;
@@ -11,6 +11,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.TextView;
+
+import com.example.tanjinhui.mycalculator.R;
 
 
 public class MainActivity extends AppCompatActivity {
